@@ -1,0 +1,1 @@
+ Allen  issues directive to  BP_Plc  to ensure protocols in place before authorizing bottom kill. Directive: http://bit.ly/9iM5OA oilspill
