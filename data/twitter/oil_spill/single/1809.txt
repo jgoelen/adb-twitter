@@ -1,1 +1,0 @@
-EcoDisaster: Testing proves the presence, not the absence, of bugs. -- Edsger Dijkstra http://bit.ly/cxWNh3

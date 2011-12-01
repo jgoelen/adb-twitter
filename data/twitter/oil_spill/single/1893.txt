@@ -1,1 +1,0 @@
-EcoDisaster: Java: the elegant simplicity of C++ and the blazing speed of Smalltalk. --  Roland_Turner  http://bit.ly/8YB4HS
