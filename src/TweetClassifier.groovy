@@ -18,7 +18,7 @@ class TweetClassifier {
 
 	public static void main( args ){
 		
-		def rootDir = new File( "data/twitter/" )
+		def rootDir = new File( "data" )
 		
 		println "Start processing ${rootDir.getAbsolutePath()}"
 		
